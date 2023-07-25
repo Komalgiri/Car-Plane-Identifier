@@ -66,8 +66,6 @@ This code is adapted from a basic tutorial on image classification with Keras. T
 
 ## License
 
-Feel free to use, modify, and distribute this code for your own purposes. If you find it helpful, consider giving credit by linking to this repository.
-
----
-Feel free to add more details or sections to the README file if needed. This README provides a brief overview of the code's functionality and how to use it.
+-Feel free to use, modify, and distribute this code for your own purposes. If you find it helpful, consider giving credit by linking to this repository.
+-Feel free to add more details or sections to the README file if needed. This README provides a brief overview of the code's functionality and how to use it.
  
