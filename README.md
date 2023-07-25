@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/7580/7580978.png">
 # Car-Plane-Identifier
 
 This repository contains a Python script that demonstrates image classification using a Convolutional Neural Network (CNN) implemented with Keras. The CNN is trained on a dataset of images containing two classes: "cars" and "planes". The model is then used to make predictions on new images.
