@@ -2,6 +2,16 @@
 
 This repository contains a Python script that demonstrates image classification using a Convolutional Neural Network (CNN) implemented with Keras. The CNN is trained on a dataset of images containing two classes: "cars" and "planes". The model is then used to make predictions on new images.
 
+## Contants
+
+- [Requirements](#requirements)
+- [Code Description](#code-description)
+- [How to Use](#how-to-use)
+- [Customization](#customization)
+- [Important Notes](#important-notes)
+- [Credits](#credits)
+- [License](#license)
+
 ## Requirements
 
 To run this code, you need the following dependencies:
